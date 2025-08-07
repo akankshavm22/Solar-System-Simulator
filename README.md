@@ -17,7 +17,7 @@ A Python-based interactive 2D/3D Solar System simulator built with **Pygame** an
 
 ## 📁 Project Structure
 <pre>
-solar-system-3d-simulator/
+solar-system-simulator/
 ├── planets/
 │   ├── sun.png
 │   ├── mercury.png
