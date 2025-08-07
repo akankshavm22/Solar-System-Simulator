@@ -32,9 +32,6 @@ solar-system-simulator/
 ├── sounds/
 │   └── space_ambient.mp3
 │ 
-├── outputs/
-│   ├── 2D output
-│   └── 3D output
 │
 ├── solar_system.py
 └── README.md
